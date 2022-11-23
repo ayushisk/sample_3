@@ -1,0 +1,69 @@
+
+.container{
+    text-align: center;
+    margin-top:15px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 18px;
+    border: 5px solid #244624;
+    font-size:30px;
+    height: 55px;
+    width: 370px;
+}
+
+button{
+    border-radius: 10px;
+    font-size: 40px;
+    background: #9651e6;
+    width: 90px;
+    height: 70px;
+    margin: 2px;
+}
+button:hover{
+    background: white;
+
+}
+
+.calculator{ 
+    border: 4px solid #79d1c5;
+    background-color: rgb(9, 17, 11);
+    padding: 18px;
+    border-radius: 50px;
+    display: inline-block;
+    
+}
+.calculator table .btn #c button{
+    background: red;
+}
+.calculator table .btn #c button:hover{
+    background: orangered;
+
+}
+calculator table .btn button{
+    background: pink;
+}
+calculator table .btn button:hover{
+    background: rgb(221, 9, 44);
+}
+.calculator table .btn-2 #e button{
+    background: green;
+}
+.calculator table .btn-2 #e button:hover{
+    background: rgb(9, 248, 9);
+
+}
+.calculator table .btn-2 #btn-1 button{
+    background: pink;
+}
+.calculator table .btn-2 #btn-1 button:hover{
+    background: rgb(221, 9, 44);
+}
+h1{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
